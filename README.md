@@ -1,6 +1,5 @@
 # 📘 **Spam Email Classifier (spam_email_classifier)**
 
-```markdown
 # Spam Email Classifier (Spambase Dataset)
 
 This project builds a machine-learning classifier that identifies whether an email is spam or not using the **UCI Spambase dataset** via `fetch_openml`.
